@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"todoapp","dependencies":{"body-parser":{"version":"1.19.2"},"cors":{"version":"2.8.5"},"express":{"version":"4.17.3"},"mongoose":{"version":"5.13.14"},"nodemon":{"version":"2.0.15"},"uuid":{"version":"8.3.2"}}}
